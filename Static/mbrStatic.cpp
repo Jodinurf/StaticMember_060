@@ -4,5 +4,3 @@ using namespace std;
 
 class mahasiswa
 {
-
-};
