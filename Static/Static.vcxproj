@@ -24,6 +24,7 @@
     <ProjectGuid>{a0a849b2-f174-4209-bdd6-4886af3a23fc}</ProjectGuid>
     <RootNamespace>Static</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>mbrStatic</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
