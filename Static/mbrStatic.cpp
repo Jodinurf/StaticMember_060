@@ -34,13 +34,7 @@ int main()
 		mahasiswa mhs2("Asroni");
 		mhs2.nim = 10;
 		mahasiswa mhs3("Andi kurniawan");
-		mhs3.nim = 20
+		mhs3.nim = 20;
 		mahasiswa mhs4("Joko purbowo");
 
-		mhs1.printAll();
-		mhs2.printAll();
-		mhs3.printAll();
-		mhs4.printAll();
-		return 0;
-	
 }
